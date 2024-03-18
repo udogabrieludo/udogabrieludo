@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Code and I have conversations.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/gabriel-udo-udo/" target="_blank" rel="noreferrer">Linkedin </h3>
 <p align="left">
 </p>
 
