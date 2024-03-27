@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated and innovative software engineer</h3>
 
 - 🔭 I’m currently working on [a Markeplace](https://test.deelaa.shop)
-
+ 
 - 🌱 I’m currently learning **AWS Serverless Framework** 
 
 - 👨‍💻 All of my projects are available at [https://g2u2.dev/](https://g2u2.dev/)
