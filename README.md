@@ -6,7 +6,7 @@
  
 - 🌱 I’m currently learning **AWS Serverless Framework**
  
-- 👨‍💻 All of my projects are available at [https://g2u2.dev/](https://g2u2.dev/)
+- 👨‍💻 My recent projects are available at [https://g2u2.dev/](https://g2u2.dev/)
 
 - 💬 Ask me about **React,Nextjs,Node,Expressjs** 
 
