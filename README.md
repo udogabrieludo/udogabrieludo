@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1> 
 <h3 align="center">A dedicated and innovative software engineer</h3>
  
-- 🔭 I’m currently working on a green IoT project
+- 🔭 I’m currently working on a green house IoT project
   
  
 - 🌱 I’m currently learning **AWS Serverless Framework**
