@@ -8,7 +8,7 @@
  
 - 👨‍💻 My recent projects are available at [https://g2u2.dev/](https://g2u2.dev/)
 
-- 💬 Ask me about **React,Nextjs, Node, Expressjs** 
+- 💬 Ask me about **React, Nextjs, Node, Expressjs** 
 
 - 📫 How to reach me **udogabrieludo@gmail.com**
 
