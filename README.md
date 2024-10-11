@@ -2,9 +2,6 @@
 <h3 align="center">A dedicated and innovative software engineer</h3>
  
 - 🔭 I’m currently working on a greenhouse IoT project
-  
- 
-- 🌱 I’m currently learning **AWS Serverless Framework**
  
 - 👨‍💻 My recent projects are available at [https://g2u2.dev/](https://g2u2.dev/)
 
