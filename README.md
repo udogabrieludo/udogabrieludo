@@ -2,8 +2,6 @@
 <h3 align="center">A dedicated and innovative software engineer</h3>
  
 - 🔭 I’m currently working on a AI Conversational Intelligence Platform that helps businesses go beyond chat
- 
-- 👨‍💻 My recent projects are available at [https://g2u2.dev/](https://g2u2.dev/)
 
 - 💬 Ask me about **React, Nextjs, Node, Expressjs, Python, Langchain, LangGraph** 
 
